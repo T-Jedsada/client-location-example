@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClientSendLocation-Example</string>
+    <string name="enable_location_service">Please enable location service</string>
+    <string name="open_location_settings">Open Location Settings</string>
+</resources>
